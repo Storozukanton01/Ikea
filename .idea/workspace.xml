@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8e7c0f3-3d9b-4db8-9296-b5eb14ddbada" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/scripts/generateCartPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/generateItemPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/storage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/userData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/generateGoodsPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/generateGoodsPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/getData.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/getData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/loadData.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Anton Varlamkin" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iEXgUEooyVzXajA8S2e7RhcwnY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\WebDev\ikea\scripts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\WebDev\ikea\main.js" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8e7c0f3-3d9b-4db8-9296-b5eb14ddbada" name="Default Changelist" comment="" />
+      <created>1601473836905</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601473836905</updated>
+      <workItem from="1601473838342" duration="9995000" />
+      <workItem from="1601497774713" duration="10241000" />
+      <workItem from="1601558657589" duration="2717000" />
+      <workItem from="1601639268007" duration="779000" />
+      <workItem from="1601640399987" duration="15138000" />
+      <workItem from="1601683467041" duration="4362000" />
+      <workItem from="1601730584640" duration="17233000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1601483352915</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601483352915</updated>
+    </task>
+    <task id="LOCAL-00002" summary="second commit">
+      <created>1601561018566</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601561018566</updated>
+    </task>
+    <task id="LOCAL-00003" summary="second commit">
+      <created>1601561232716</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601561232716</updated>
+    </task>
+    <task id="LOCAL-00004" summary=" third commit">
+      <created>1601654579183</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601654579183</updated>
+    </task>
+    <task id="LOCAL-00005" summary=" third commit">
+      <created>1601654807257</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601654807257</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="second commit" />
+    <MESSAGE value=" third commit" />
+    <option name="LAST_COMMIT_MESSAGE" value=" third commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601749684505">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.54.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1601749684505" />
+    <state x="538" y="13" key="CommitChangelistDialog2" timestamp="1601654806317">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="538" y="13" key="CommitChangelistDialog2/1920.54.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1601654806317" />
+    <state x="740" y="266" key="FileChooserDialogImpl" timestamp="1601483227921">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="266" key="FileChooserDialogImpl/1920.54.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1601483227921" />
+    <state x="540" y="260" key="IDE.errors.dialog" timestamp="1601640325686">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="540" y="260" key="IDE.errors.dialog/1920.54.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1601640325686" />
+    <state x="162" y="77" key="SettingsEditor" timestamp="1601640388035">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="162" y="77" key="SettingsEditor/1920.54.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1601640388035" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1601654810745">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/1920.54.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1601654810745" />
+    <state x="830" y="282" width="583" height="566" key="find.popup" timestamp="1601749692085">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="830" y="282" width="583" height="566" key="find.popup/1920.54.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1601749692085" />
+    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601483432925">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog/1920.54.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1601483432925" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1601643455892">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/1920.54.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1601643455892" />
+  </component>
+</project>
